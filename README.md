@@ -80,3 +80,6 @@ gcc -Wall -Werror -Wextra -pedantic -std=c99 -o pointers pointers.c
 ```
 ./pointers
 ```
+
+## Materia: Algoritmos y estructura de datos 2
+## Integrantes: Alejandro Spitale, Agustin Silva
